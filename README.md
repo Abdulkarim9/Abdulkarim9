@@ -1,6 +1,6 @@
 # Hi there, I'm Abdulkarim Maslouk 👋
 
-Welcome to my GitHub profile! I'm a Web developer with a passion for [Your Passion, e.g., building scalable web applications. I love tackling challenging problems and continuously learning new technologies.
+Welcome to my GitHub profile! I'm a web developer with a passion for building scalable web applications. I enjoy tackling challenging problems and continuously learning new technologies to stay ahead in the ever-evolving tech world.
 
 ## 🔧 Technologies & Tools
 
