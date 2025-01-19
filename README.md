@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Abdulkarim Maslouk 👋
 
-<!--
-**Abdulkarim9/Abdulkarim9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Web developer with a passion for [Your Passion, e.g., building scalable web applications. I love tackling challenging problems and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?&style=for-the-badge&logo=Django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulkarim9&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkarim9&layout=compact&theme=radical)
+
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/abdulkarim-maslouk-9b3564255/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white)]([https://twitter.com/your-twitter](https://twitter.com/Abdulka73109712))
+[![Email](https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abdulkarimmaslouk4@gmail.com)
+
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
+
+---
