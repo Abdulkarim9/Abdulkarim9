@@ -1,7 +1,8 @@
 # Hi there, I'm Abdulkarim Maslouk 👋
 
-Welcome to my GitHub profile! I'm a web developer with a passion for building scalable web applications. I enjoy tackling challenging problems and continuously learning new technologies to stay ahead in the ever-evolving tech world.
+Welcome to my GitHub profile! I'm a web developer passionate about building scalable web applications. As a computer engineering student, I focus on creating efficient, secure, and user-friendly software. I also have knowledge in cybersecurity, ensuring my code is secure and optimized.
 
+Feel free to explore my projects, and don’t hesitate to connect or collaborate!
 ## 🔧 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white)
